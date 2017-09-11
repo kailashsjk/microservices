@@ -1,0 +1,2 @@
+http://localhost:8083/booking/create?psngrName=Bablu&destination=Delhi&departure=Farrukhabad
+http://localhost:8083/booking/read-all
